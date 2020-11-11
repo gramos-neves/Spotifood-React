@@ -10,13 +10,13 @@ um aplicativo da web chamado Spotifood usado para exibir as listas de reprodu√ß√
 
 ### Utilizando API Node Spotify 
 
-- **`Instalar as dependecias`**::  Para instalar as dependecias do Node executar o seguinte comando
+- **`Instalar as dependecias`**:  Para instalar as dependecias do Node executar o seguinte comando
 
 ```js
   yarn 
 ```
 
-- **`Iniciar o Node`**::  Para iniciar o Node executar o seguinte comando, vai estar rodando na porta 8888  
+- **`Iniciar o Node`**:  Para iniciar o Node executar o seguinte comando, vai estar rodando na porta 8888  
 
 ```js
   yarn start
@@ -24,13 +24,13 @@ um aplicativo da web chamado Spotifood usado para exibir as listas de reprodu√ß√
 
 ### Utilizando o React 
 
-- **`Instalar as dependecias`**::  Para instalar as dependecias do React executar o seguinte comando
+- **`Instalar as dependecias`**:  Para instalar as dependecias do React executar o seguinte comando
 
 ```js
   yarn 
 ```
 
-- **`Iniciar o React`**::  Para iniciar o React executar o seguinte comando, vai estar rodando na porta 3000 
+- **`Iniciar o React`**:  Para iniciar o React executar o seguinte comando, vai estar rodando na porta 3000 
 
 ```js
   yarn start
