@@ -41,3 +41,9 @@ um aplicativo da web chamado Spotifood usado para exibir as listas de reproduç�
 
 Para utilizar a aplicação e necessario criar uma conta no Spotify. 
 
+
+## Solução do desafio
+
+<a href="https://youtu.be/LdQ2CguxKMo" target="_blank" align="center">
+  
+</a>
